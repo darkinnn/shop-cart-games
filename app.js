@@ -226,3 +226,17 @@ document.addEventListener('DOMContentLoaded', () => {
     ui.cartLogic()
   })
 })
+
+//slideshow images
+const slideshowImages = document.querySelectorAll(".slideshow-img");
+let i = 0;
+
+slideshowImages[i].style.opacity = 1;
+
+setInterval(nextImage, 5000);
+
+function nextImage() {
+	slideshowImages[i].style.opacity = 0;
+	i = (i + 1) % slideshowImages.length;
+	slideshowImages[i].style.opacity = 1;
+}

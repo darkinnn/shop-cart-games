@@ -3,7 +3,7 @@
     {
       "sys": { "id": "1" },
       "fields": {
-        "title": "queen panel bed",
+        "title": "black ops",
         "price": 10.99,
         "image": { "fields": { "file": { "url": "./images/game1.jpg" } } }
       }
@@ -11,15 +11,15 @@
     {
       "sys": { "id": "2" },
       "fields": {
-        "title": "king panel bed",
-        "price": 12.99,
+        "title": "donkey kong",
+        "price": 99.99,
         "image": { "fields": { "file": { "url": "./images/game2.jpg" } } }
       }
     },
     {
       "sys": { "id": "3" },
       "fields": {
-        "title": "single panel bed",
+        "title": "arena of valor",
         "price": 12.99,
         "image": { "fields": { "file": { "url": "./images/game3.jpg" } } }
       }
@@ -27,7 +27,7 @@
     {
       "sys": { "id": "4" },
       "fields": {
-        "title": "twin panel bed",
+        "title": "dead by daylight",
         "price": 22.99,
         "image": { "fields": { "file": { "url": "./images/game4.jpg" } } }
       }
@@ -35,15 +35,15 @@
     {
       "sys": { "id": "5" },
       "fields": {
-        "title": "fridge",
-        "price": 88.99,
+        "title": "leyend of zelda",
+        "price": 48.99,
         "image": { "fields": { "file": { "url": "./images/game5.jpg" } } }
       }
     },
     {
       "sys": { "id": "6" },
       "fields": {
-        "title": "dresser",
+        "title": "genshin impact",
         "price": 32.99,
         "image": { "fields": { "file": { "url": "./images/game6.jpg" } } }
       }
@@ -51,7 +51,7 @@
     {
       "sys": { "id": "7" },
       "fields": {
-        "title": "couch",
+        "title": "final fantasy",
         "price": 45.99,
         "image": { "fields": { "file": { "url": "./images/game7.jpg" } } }
       }
@@ -59,7 +59,7 @@
     {
       "sys": { "id": "8" },
       "fields": {
-        "title": "table",
+        "title": "final fantasy XV",
         "price": 33.99,
         "image": { "fields": { "file": { "url": "./images/game8.jpg" } } }
       }
